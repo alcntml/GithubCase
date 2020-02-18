@@ -17,7 +17,7 @@ This is a fork of sample app that uses Android Architecture Components with Dagg
 * [espresso][espresso] for UI tests
 * [mockito][mockito] for mocking in tests
 
-[based-on]: https://github.com/android/architecture-samples
+[based-on]: https://github.com/android/architecture-components-samples
 [mockwebserver]: https://github.com/square/okhttp/tree/master/mockwebserver
 [support-lib]: https://developer.android.com/topic/libraries/support-library/index.html
 [arch]: https://developer.android.com/arch
